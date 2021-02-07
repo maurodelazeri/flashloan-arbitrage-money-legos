@@ -30,7 +30,7 @@ Rename [env](./env) to '.env' and complete the missing values for your project.
 Connect your truffle console to the Kovan network like so:
 
 ```
-truffle console --network kovan
+truffle console --network ropsten
 ```
 
 ### Compile / Deploy
